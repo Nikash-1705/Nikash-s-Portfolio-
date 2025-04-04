@@ -165,7 +165,7 @@
             <h2>Projects</h2>
             <ul>
                 <li>Smart India Hackathon</a></li>
-                <li>Yuthi Hacakthon</a></li <li> <b>Alexa Based Project</b></li>
+                <li>Yukthi Hacakthon</a></li> <b>Alexa Based Project</b></li>
 
                 <!-- Add more project links here -->
             </ul>
@@ -177,7 +177,7 @@
         <div class="section-content">
             <center>
                 <h2>Resume</h2>
-                <a href="D:\Coursera Certifcate\NM Portfolio\Nikash resume.pdf" target="_blank"
+                <a href="C:\Users\user\Desktop\NM\assets\Nikash resume.pdf" target="_blank"
                     class="download-button">Download CV</a>
             </center>
         </div>
